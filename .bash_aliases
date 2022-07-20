@@ -1,0 +1,12 @@
+# Git alias
+alias ga='git add .'
+alias gb='git branch'
+alias gc='git checkout'
+alias pull='git pull'
+alias push='git push'
+alias commit='git commit -m'
+alias reset='git reset --hard'
+alias gf='git fetch'
+alias gs='git status'
+alias gm='git merge'
+alias gl='git log --pretty=format:"%h %s" --graph'
